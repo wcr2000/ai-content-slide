@@ -1,6 +1,6 @@
-# AI Working — สอนทำคอนเทนต์ด้วย AI ลง IG
+# AI Working — สอนทำคอนเทนต์ด้วย AI ลง Social Media
 
-หลักสูตรออนไลน์สำหรับผู้เริ่มต้น สอนใช้เครื่องมือ AI สร้างคอนเทนต์ Instagram ตั้งแต่เขียน caption, สร้างภาพ, วางแผนคอนเทนต์ทั้งเดือน ไปจนถึงเทคนิคการโพสต์อย่างมืออาชีพ
+หลักสูตรออนไลน์สำหรับผู้เริ่มต้น สอนใช้เครื่องมือ AI สร้างคอนเทนต์ลง Social Media ทุกแพลตฟอร์ม (Instagram, TikTok, YouTube, Facebook) ตั้งแต่เขียน caption, สร้างภาพ, เขียนบทพูดสำหรับคลิป, วางแผนคอนเทนต์ทั้งเดือน ไปจนถึงเทคนิคการโพสต์อย่างมืออาชีพ
 
 **ระยะเวลา:** 60-75 นาที | **รูปแบบ:** Online Session
 
@@ -15,6 +15,7 @@
 | 03 | สร้างภาพ / ดีไซน์ด้วย AI | 15 นาที | [notes](notes/part-03-design.md) | [prompts](prompts/part-03-design.md) |
 | 04 | วางแผนคอนเทนต์ทั้งเดือนใน 5 นาที | 10 นาที | [notes](notes/part-04-content-plan.md) | [prompts](prompts/part-04-content-plan.md) |
 | 05 | โพสต์ลง IG อย่างถูกต้อง | 10 นาที | [notes](notes/part-05-posting.md) | [prompts](prompts/part-05-posting.md) |
+| 06 | ไม่รู้จะพูดอะไร? ให้ AI เขียนบทพูดให้ | 10-15 นาที | [notes](notes/part-06-video-script.md) | [prompts](prompts/part-06-video-script.md) |
 | Bonus | Tips จริงที่ใช้ได้เลย + Q&A | — | [notes](notes/bonus.md) | [prompts](prompts/bonus.md) |
 
 ---
@@ -33,6 +34,7 @@ ai-content-slide/
 │   ├── part-03-design.md
 │   ├── part-04-content-plan.md
 │   ├── part-05-posting.md
+│   ├── part-06-video-script.md
 │   └── bonus.md
 ├── prompts/               ← Prompt templates พร้อมใช้
 │   ├── part-01-ai-intro.md
@@ -40,6 +42,7 @@ ai-content-slide/
 │   ├── part-03-design.md
 │   ├── part-04-content-plan.md
 │   ├── part-05-posting.md
+│   ├── part-06-video-script.md
 │   └── bonus.md
 └── resources/             ← เก็บ PDF, รูปภาพ, ไฟล์อื่นๆ
 ```
@@ -66,3 +69,5 @@ ai-content-slide/
 | วางแผนเดือน | `วางแผนโพสต์ IG 30 วัน หัวข้อ [xxx] หลากหลายรูปแบบ` |
 | หา hashtag | `แนะนำ hashtag สำหรับโพสต์เรื่อง [xxx] แบ่ง popular, medium, niche` |
 | เขียน Bio | `เขียน Bio IG สำหรับ [xxx] กระชับ มี emoji มี CTA ไม่เกิน 150 ตัวอักษร` |
+| บทพูดคลิปสั้น | `เขียนบทพูดคลิปสั้น 30 วินาที หัวข้อ [xxx] มี hook ดึงดูด โทน [xxx] ลง [TikTok/IG/YouTube/Facebook]` |
+| สร้าง Hook 10 แบบ | `สร้าง Hook สำหรับคลิปสั้น 10 แบบ หัวข้อ [xxx] ใช้เทคนิคหลากหลาย` |
